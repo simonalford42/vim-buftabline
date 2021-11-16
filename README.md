@@ -1,6 +1,10 @@
 <h1 align="center">Buftabline</h1>
 
 <div align="center">
+Fork: added capability to have tabs with custum labels (e.g. asdfgjkl;, so I can switch faster).
+</div>
+
+<div align="center">
 A well-integrated, low-configuration buffer list that lives in the tabline<br>
 <img src="https://raw.githubusercontent.com/ap/vim-buftabline/fe615be277cfba1ecadc52d61fa173d034817d67/screenshot.png" width="787">
 </div>
